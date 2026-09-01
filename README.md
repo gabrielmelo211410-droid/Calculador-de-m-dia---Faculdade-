@@ -1,4 +1,4 @@
-# Calculador-de-media-da---Faculdade- em C
+# Calculador de mediada Faculdade em C
 Programa de calculador de media em programação C, servindo para calcular médias escolares.
 #include <stdio.h>
     int main() {
